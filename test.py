@@ -7,6 +7,6 @@ def add_num(a, b):
 if __name__ == "__main__":
     m1 = int(input())
     m2 = int(input())
-    s = add_num(a1, a2)
+    s = add_num(m1, m2)
     print(s)
 
